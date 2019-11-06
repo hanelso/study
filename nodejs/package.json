@@ -2,6 +2,7 @@
   "name": "ch02",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "dependencies": {
     "nconf": "^0.10.0"
